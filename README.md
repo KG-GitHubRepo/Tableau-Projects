@@ -1,6 +1,7 @@
 # 📊 Tableau Projects
 
 Welcome!
+
 This repository showcases my work and learning journey in data visualization using Tableau. Each project here is designed to turn raw data into compelling, interactive stories that reveal actionable insights.
 
 ### ✨ What’s inside
@@ -25,7 +26,7 @@ Reflections & learnings
 
 ### 🌐 View my Tableau Public portfolio
 
-🔗 ![My Tableau Public Profile](https://public.tableau.com/app/profile/komal.gupta7818/vizzes)
+🔗 ![My Tableau Public Profile]([https://public.tableau.com/app/profile/komal.gupta7818/vizzes])
 
 Explore full interactive dashboards beyond GitHub screenshots.
 
