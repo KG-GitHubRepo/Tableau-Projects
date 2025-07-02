@@ -26,7 +26,7 @@ Reflections & learnings
 
 ### 🌐 View my Tableau Public portfolio
 
-🔗 ![My Tableau Public Profile]([https://public.tableau.com/app/profile/komal.gupta7818/vizzes])
+🔗 ![My Tableau Public Profile](https://public.tableau.com/app/profile/komal.gupta7818/vizzes)
 
 Explore full interactive dashboards beyond GitHub screenshots.
 
