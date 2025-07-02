@@ -28,7 +28,7 @@ Tableau Public
 Excel/CSV (for data preprocessing if applicable)
 
 ## ✅ Dashboard
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](Dashboard.png)
 
 ## 📈 Insights from the Dashboard
 
