@@ -20,7 +20,7 @@ The dashboard aims to:
 
 ## ⚙ Tools & Technologies
 
-* Tableau Public
+* ![Tableau Public](https://public.tableau.com/app/profile/komal.gupta7818/viz/HRAnalyticsDashboard_17514381553940/Dashboard1)
 * Excel
 
 ## ✅ Dashboard
