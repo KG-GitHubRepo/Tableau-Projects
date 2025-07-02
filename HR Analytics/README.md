@@ -1,4 +1,4 @@
-# 📊 README – HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 
 This Tableau project analyzes key HR metrics to help understand employee attrition patterns and workforce demographics.
 
@@ -8,24 +8,20 @@ The dashboard includes visualizations on:
 * Attrition breakdown by gender, department, and education fields
 * Age demographics distribution
 * Job satisfaction across different roles
-
-Attrition rates differentiated by gender and age groups
+* Attrition rates differentiated by gender and age groups
 
 ## ✅ Purpose
 
 The dashboard aims to:
 
-Identify groups with higher attrition risk
-
-Understand employee demographics and satisfaction levels
-
-Provide actionable insights to HR teams to improve retention
+* Identify groups with higher attrition risk
+* Understand employee demographics and satisfaction levels
+* Provide actionable insights to HR teams to improve retention
 
 ## ⚙ Tools & Technologies
 
-Tableau Public
-
-Excel/CSV (for data preprocessing if applicable)
+* Tableau Public
+* Excel
 
 ## ✅ Dashboard
 ![HR Analytics Dashboard](Dashboard.png)
