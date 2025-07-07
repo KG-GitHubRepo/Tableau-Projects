@@ -1,61 +1,61 @@
-# 📊 HR Analytics Dashboard
+# 📊 Netflix Dashboard
 
-This Tableau project analyzes key HR metrics to help understand employee attrition patterns and workforce demographics.
+This Tableau project analyzes Netflix's catalog to explore the distribution of movies and TV shows, popular genres, content ratings, and geographic availability.
 
 The dashboard includes visualizations on:
 
-* Overall attrition rate and count
-* Attrition breakdown by gender, department, and education fields
-* Age demographics distribution
-* Job satisfaction across different roles
-* Attrition rates differentiated by gender and age groups
+* Total movies & TV shows by country (world map)
+* Top 10 most common genres
+* Growth trend of total titles over years
+* Distribution between movies and TV shows
+* Content ratings breakdown
 
 ## ✅ Purpose
 
 The dashboard aims to:
 
-* Identify groups with higher attrition risk
-* Understand employee demographics and satisfaction levels
-* Provide actionable insights to HR teams to improve retention
+* Understand content spread across countries
+* Identify the most popular genres on Netflix
+* Explore trends in Netflix's content catalog over time
+* Analyze the balance between movies vs TV shows
+* Examine content ratings distribution
 
 ## ⚙ Tools & Technologies
 
-* [!Tableau Public](https://public.tableau.com/app/profile/komal.gupta7818/viz/HRAnalyticsDashboard_17514381553940/Dashboard1)
+* [!Tableau Public](https://public.tableau.com/app/profile/komal.gupta7818/viz/NetflixDashboard_17518818401330/Netflix)
 * Excel
 
 ## ✅ Dashboard
-![HR Analytics Dashboard](Dashboard.png)
+![HR Analytics Dashboard](Netflix.png)
 
 ## 📈 Insights from the Dashboard
 
 From the visualizations, some key insights include:
 
-1. **Overall Attrition Rate:**
+1. **Total Movies & TV Shows by Country:**
 
-   * Total attrition rate is about 16.12% with 237 employees who left out of 1,470.
+    * The US has the highest number of titles available (over 2,000).
+    * Significant content availability also seen in Canada, UK, and India.
+    * Many countries in Africa and parts of Asia have very limited Netflix catalogs.
 
-2. **Attrition by Gender:**
+2. **Top 10 Genres:**
 
-   * Male employees account for a higher number of attritions (150) compared to female employees (87).
+    * Documentaries lead with 299 titles.
+    * Followed by Stand-Up Comedy (273) and Dramas, International Movies (248).
+    * Other notable genres include Dramas, Independent Movies, International Movies (186), and Kids' TV (159).
 
-3. **Department-wise Attrition:**
+3. **Growth Trend:**
 
-   * Highest attrition is in the R&D department (56.12%), followed by Sales (38.82%) and HR (5.06%).
+    * Sharp increase in total titles between 2015–2018, peaking around 2018–2019.
+    * Both movies and TV shows increased, but movies still dominate the catalog.
 
-4. **Attrition by Education:**
+4. **Movies & TV Shows Distribution:**
 
-   * Employees with a Bachelor’s Degree have the highest attrition count (572), followed by those with a Master’s Degree (398).
+    * Movies make up around 68.42% (4,265 titles).
+    * TV shows account for 31.56% (1,969 titles).
 
-5. **Age Demographics:**
+5. **Content Ratings:**
 
-   * The most common age group of employees is 31–35 years, followed by 26–30 years.
-   * Average employee age is 37.
-
-6. **Job Satisfaction:**
-
-   * Some roles like Research Scientists and Laboratory Technicians show higher dissatisfaction (more counts in lower satisfaction scores).
-
-7. **Attrition Rates by Age and Gender:**
-
-   * Highest attrition is seen in the 25–34 age band (29.11% female, 18.14% male).
-   * Attrition decreases significantly in older age bands (Over 45 years).
+    * Largest share of titles is TV-MA (2,027 titles), indicating mature content.
+    * Other top ratings: TV-14 (1,698), TV-PG (701), and R-rated content (508).
+    * Smaller counts in family-friendly ratings like TV-Y, G, and PG.
