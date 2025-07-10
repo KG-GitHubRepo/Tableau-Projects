@@ -26,7 +26,7 @@ The dashboard aims to:
 * Excel
 
 ## ✅ Dashboard
-![HR Analytics Dashboard](Netflix.png)
+![Netflix](Netflix.png)
 
 ## 📈 Insights from the Dashboard
 
